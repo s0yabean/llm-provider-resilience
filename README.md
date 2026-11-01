@@ -1,5 +1,7 @@
 # llm-provider-resilience
 
+[![CI](https://github.com/s0yabean/llm-provider-resilience/actions/workflows/ci.yml/badge.svg)](https://github.com/s0yabean/llm-provider-resilience/actions/workflows/ci.yml)
+
 A small, dependency-free Python module and a set of runbooks for keeping LLM-backed agents working through rate limits, provider outages, expired keys and gateway faults.
 
 ## The problem
